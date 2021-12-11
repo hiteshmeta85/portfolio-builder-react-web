@@ -6,4 +6,4 @@ Portfolio Builder front-end using ReactJs and Chakra-UI.
 4. Make sure the strapi-api server is running and you have filled the required columns
 5. Run the server using npm start
 
-![daily-blog](layout_view.png)
+![](layout_view.png)
