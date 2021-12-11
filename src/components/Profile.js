@@ -29,7 +29,6 @@ const Profile = () => {
                 {/*<Image src={'http://localhost:1337' + userInfo.photo[0].url} w='20rem' h='20rem' p='1rem' borderRadius='50%'
                        mx={{base: 'auto', md: '1rem'}}/>*/}
                 <Box p='1rem' maxW='800px'>
-
                     {/*conditional rendering*/}
                     {didWeGetInfo ?
                         <><Text fontSize={{base: '3rem', md: '4rem'}} fontWeight='600'>Hello, I'm <span
